@@ -46,6 +46,12 @@
   <img src="https://img.shields.io/badge/Cloud_Computing-lightblue?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloud Computing" />
   <img src="https://img.shields.io/badge/JEE-orange?style=for-the-badge&logo=java&logoColor=white" alt="JEE" />
   <img src="https://img.shields.io/badge/Android_Studio-green?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
 ---
