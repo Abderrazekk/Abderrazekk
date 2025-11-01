@@ -75,7 +75,7 @@
 ---
 
 ## Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/abderazek-benhadjmbarek-9650612a3)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([www.linkedin.com/in/abderazek-benhadjmbarek-9650612a3](https://www.linkedin.com/in/abderazek-benhadjmbarek-9650612a3))  
 📧 Email: [abderazekbelhadjmbarek@gmail.com](mailto:abderazekbelhadjmbarek@gmail.com)
 
 ---
