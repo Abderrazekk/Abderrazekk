@@ -1,28 +1,36 @@
 # Welcome To My GitHub Space
 
 ## Hi 👋, I'm Abderazek Benhadjmbarek  
-### A passionate Computer Science Student  
+### 💻 Software Engineer | Full Stack & Mobile Developer 
 
-- 🌟 I’m currently working on **Artificial Intelligence and Machine Learning** projects.
-- 🔍 I’m interested in **Blockchain Development** and **Decentralized Applications (DApps)**.
+- 💡 I’m currently focused on integrating AI models (Groq, Ollama, LLaMA) into real-world apps.
+- 🚀 Passionate about building intelligent, high-performance applications using Flutter, React.js, Node.js, and MongoDB.
 - 🤖 I’m exploring **Deep Learning**, **Image Recognition**, and **Natural Language Processing (NLP)**.
-- 🛠️ I enjoy building projects using **React, Node.js, MongoDB, and Express**.
-- 💻 I’m passionate about creating innovative solutions in **Software Development** and **Smart Systems**.
+- 🎯 My goal: Craft innovative, user-centered solutions that merge software engineering with smart systems.
 
 ---
 
 ## My Interests
 
+- 🤖 Artificial Intelligence & Machine Learning:
+  - **Deep Learning**
+  - **Image Recognition, NLP**
+  - **AI model integration with real-world apps**  
+
 - 📊 Business Intelligence:  
   - **Data Warehousing**
   - **Dashboarding with Power BI**
-  - **SSIS (SQL Server Integration Services)**  
+  - **Data Analysis**  
 
 - 💡 Technologies:
   - **Programming**    
   - **Web Development**
   - **Software Development**
-  - **Cloud Computing**
+
+- ☁️ Cloud & DevOps:
+  - **API Deployment**    
+  - **CI/CD**
+  - **Scalable Backend Systems**
 
 
 ---
@@ -59,6 +67,11 @@
   <img src="https://img.shields.io/badge/Blockchain-darkgray?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain" />
   <img src="https://img.shields.io/badge/AI-green?style=for-the-badge&logo=ai&logoColor=white" alt="AI" />
 </p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+<img src="https://img.shields.io/badge/Mobile%20Development-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Development" />
+
 
 ---
 
