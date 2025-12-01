@@ -17,20 +17,10 @@
   - **Image Recognition, NLP**
   - **AI model integration with real-world apps**  
 
-- 📊 Business Intelligence:  
-  - **Data Warehousing**
-  - **Dashboarding with Power BI**
-  - **Data Analysis**  
-
 - 💡 Technologies:
   - **Programming**    
   - **Web Development**
   - **Software Development**
-
-- ☁️ Cloud & DevOps:
-  - **API Deployment**    
-  - **CI/CD**
-  - **Scalable Backend Systems**
 
 
 ---
