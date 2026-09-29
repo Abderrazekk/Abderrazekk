@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=220&section=header&text=Abderazek%20Benhadjmbarek&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20AI%20Developer&descSize=20&descAlignY=58" alt="header" />
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&height=50&lines=Data+Science+%26+AI+Engineering+Student+%40+TEK-UP;I+build+production-ready+MERN+%26+Flutter+apps;I+integrate+LLMs+%26+RAG+into+real-world+products;Open+to+internships+and+PFE+opportunities" alt="Typing SVG" />
 </a>
@@ -44,11 +42,11 @@ const abderazek = {
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,dart,kotlin,c&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,dart,kotlin&theme=dark" alt="languages" />
 
 **Frontend & Mobile**
 
-<img src="https://skillicons.dev/icons?i=react,redux,vite,tailwind,html,css,flutter&theme=dark" alt="frontend" />
+<img src="https://skillicons.dev/icons?i=react,redux,vite,tailwind,flutter&theme=dark" alt="frontend" />
 
 **Backend & Databases**
 
@@ -81,8 +79,6 @@ const abderazek = {
 | 🧠 **ENA-Mentor AI** | Local RAG platform and role-play simulator for public administration training, with answers grounded in institutional archives and legal texts. | Python, LlamaIndex, ChromaDB, Groq, CamemBERT, Streamlit |
 | 🧪 **OptiMedLab** | Full-stack ERP for laboratories: inventory, suppliers, finance, and an intelligent assistant. | React, Node.js, MongoDB, Python, Ollama, Docker |
 | 💳 **Online Credit Platform** | Secure credit management app with financial simulations, multi-role dashboards and a support chatbot. | React, Node.js, MongoDB, Groq, LLaMA 3, Docker |
-| 🏡 **Tunisian Guest House Booking** | Booking platform with map-based search, wishlist, multi-role access and a smart filter chatbot. | MERN, Cloudinary, JWT |
-| 💘 **TuniSwipe** | Cross-platform swipe-matching app with real-time chat and algorithmic suggestions. | Flutter, Dart, Node.js, MongoDB |
 | 🦴 **AI Bone Fracture Detection** | ML system for fracture detection and localization in X-ray images. | Python, PyTorch, Keras |
 
 > 📂 More on my [repositories page](https://github.com/Abderrazekk?tab=repositories).
