@@ -1,69 +1,132 @@
-# Welcome To My GitHub Space
+<div align="center">
 
-## Hi 👋, I'm Abderazek Benhadjmbarek  
-### 💻 Software Engineer | Full Stack & Mobile Developer 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=220&section=header&text=Abderazek%20Benhadjmbarek&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20AI%20Developer&descSize=20&descAlignY=58" alt="header" />
 
-- 💡 I’m currently focused on integrating AI models (Groq, Ollama, LLaMA) into real-world apps.
-- 🚀 Passionate about building intelligent, high-performance applications using Flutter, React.js, Node.js, and MongoDB.
-- 🤖 I’m exploring **Deep Learning**, **Image Recognition**, and **Natural Language Processing (NLP)**.
-- 🎯 My goal: Craft innovative, user-centered solutions that merge software engineering with smart systems.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&height=50&lines=Data+Science+%26+AI+Engineering+Student+%40+TEK-UP;I+build+production-ready+MERN+%26+Flutter+apps;I+integrate+LLMs+%26+RAG+into+real-world+products;Open+to+internships+and+PFE+opportunities" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## My Interests
+<a href="https://www.linkedin.com/in/abderazek-benhadjmbarek-9650612a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:abderazekbelhadjmbarek@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=Abderrazekk&label=Profile+views&color=38bdf8&style=for-the-badge" alt="views" />
 
-- 🤖 Artificial Intelligence & Machine Learning:
-  - **Deep Learning**
-  - **Image Recognition, NLP**
-  - **AI model integration with real-world apps**  
-
-- 💡 Technologies:
-  - **Programming**    
-  - **Web Development**
-  - **Software Development**
-
+</div>
 
 ---
 
-## Languages and Tools  
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/ES6-green?style=for-the-badge&logo=javascript&logoColor=white" alt="ES6" />
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React.js-lightblue?style=for-the-badge&logo=react" alt="React.js" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Cloud_Computing-lightblue?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloud Computing" />
-  <img src="https://img.shields.io/badge/JEE-orange?style=for-the-badge&logo=java&logoColor=white" alt="JEE" />
-  <img src="https://img.shields.io/badge/Android_Studio-green?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/UI/UX_Design-purple?style=for-the-badge&logo=adobe&logoColor=white" alt="UI/UX Design" />
-  <img src="https://img.shields.io/badge/AI-green?style=for-the-badge&logo=ai&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/Mobile%20Development-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Development" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+## 👨‍💻 About Me
 
-</p>
+I'm an engineering student in **Data Science & Artificial Intelligence at TEK-UP**, and a **full stack developer** who has shipped real products for real clients.
+
+- 🛒 Delivered a production **MERN e-commerce platform** for a client (Shopina), deployed with Docker and Nginx
+- 📱 Built a **Flutter mobile app** with a Node.js backend during my final-year internship at Prologic
+- 🤖 Integrating **LLMs (Groq, Ollama, LLaMA)** and **RAG pipelines** into practical applications
+- 🎯 Looking for internships and a PFE in **AI engineering** and **full stack development**
+
+```js
+const abderazek = {
+  role: "Full Stack & AI Developer",
+  studying: "Data Science & AI Engineering @ TEK-UP",
+  location: "Ariana, Tunisia 🇹🇳",
+  languages: ["Arabic (native)", "French (fluent)", "English (fluent)"],
+  currentlyExploring: ["RAG", "LLM apps", "Computer Vision"],
+  lookingFor: "Internship / PFE",
+};
+```
 
 ---
 
-## Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abderazek-benhadjmbarek-9650612a3)  
-📧 Email: [abderazekbelhadjmbarek@gmail.com](mailto:abderazekbelhadjmbarek@gmail.com)
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,dart,kotlin,c&theme=dark" alt="languages" />
+
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,redux,vite,tailwind,html,css,flutter&theme=dark" alt="frontend" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="backend" />
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python&theme=dark" alt="ai" />
+
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" alt="Groq" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="LLaMA" />
+<img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logoColor=white" alt="LlamaIndex" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logoColor=white" alt="ChromaDB" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,git,github,linux,postman,figma,ps,pr&theme=dark" alt="tools" />
+
+</div>
 
 ---
 
-### Let's Build Something Amazing Together!  
+## 🚀 Featured Projects
 
+| Project | Description | Stack |
+|---|---|---|
+| 🛍️ **Shopina** *(client work)* | Production e-commerce platform with multilingual UI, admin dashboard, analytics, promotions, SEO and Google auth. | React, Redux Toolkit, Node.js, MongoDB, Docker, Nginx |
+| 🧠 **ENA-Mentor AI** | Local RAG platform and role-play simulator for public administration training, with answers grounded in institutional archives and legal texts. | Python, LlamaIndex, ChromaDB, Groq, CamemBERT, Streamlit |
+| 🧪 **OptiMedLab** | Full-stack ERP for laboratories: inventory, suppliers, finance, and an intelligent assistant. | React, Node.js, MongoDB, Python, Ollama, Docker |
+| 💳 **Online Credit Platform** | Secure credit management app with financial simulations, multi-role dashboards and a support chatbot. | React, Node.js, MongoDB, Groq, LLaMA 3, Docker |
+| 🏡 **Tunisian Guest House Booking** | Booking platform with map-based search, wishlist, multi-role access and a smart filter chatbot. | MERN, Cloudinary, JWT |
+| 💘 **TuniSwipe** | Cross-platform swipe-matching app with real-time chat and algorithmic suggestions. | Flutter, Dart, Node.js, MongoDB |
+| 🦴 **AI Bone Fracture Detection** | ML system for fracture detection and localization in X-ray images. | Python, PyTorch, Keras |
+
+> 📂 More on my [repositories page](https://github.com/Abderrazekk?tab=repositories).
+
+---
+
+## 💼 Experience
+
+- **Freelance Full Stack Developer, Shopina** *(Jan 2026 – Mar 2026)*: designed, deployed and maintained a client e-commerce platform.
+- **Final Year Internship, Prologic Tunisia** *(Feb 2025 – May 2025)*: Flutter mobile app with a Node.js/MongoDB backend, JWT auth, and AI tooling with Groq, Ollama and LLaMA.
+- **Web Development Internship, Real Estate Agency** *(Jul 2024 – Aug 2024)*: responsive listings and search website, SEO optimization, team training.
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 **Engineering Degree in Data Science & AI**, TEK-UP University *(2026 – 2028)*
+- 🎓 **Master's in Computer Science**, Faculty of Sciences of Bizerte
+- 📜 DataCamp **AI Engineer for Data Scientists** (Associate) and **AI Engineer for Developers** (Associate)
+- 📜 NVIDIA **Getting Started with AI on Jetson Nano**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abderrazekk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abderrazekk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+
+<img src="https://streak-stats.demolab.com?user=Abderrazekk&theme=tokyonight&hide_border=true" alt="streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abderrazekk&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's build something intelligent together
+
+<a href="mailto:abderazekbelhadjmbarek@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-38bdf8?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e3a8a,100:0f172a&height=120&section=footer" alt="footer" />
+
+</div>
