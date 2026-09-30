@@ -106,12 +106,7 @@ const abderazek = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abderrazekk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abderrazekk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-
 <img src="https://streak-stats.demolab.com?user=Abderrazekk&theme=tokyonight&hide_border=true" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abderrazekk&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
 
 </div>
 
