@@ -93,7 +93,7 @@ const abderazek = {
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
 - 🎓 **Engineering Degree in Data Science & AI**, TEK-UP University *(2026 – present)*
 - 🎓 **Master's in Computer Science**, Faculty of Sciences of Bizerte *(2025 – present)*
