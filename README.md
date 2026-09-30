@@ -95,11 +95,10 @@ const abderazek = {
 
 ## 🎓 Education & Certifications
 
-- 🎓 **Engineering Degree in Data Science & AI**, TEK-UP University *(2026 – 2028)*
-- 🎓 **Master's in Computer Science**, Faculty of Sciences of Bizerte
-- 📜 DataCamp **AI Engineer for Data Scientists** (Associate) and **AI Engineer for Developers** (Associate)
-- 📜 NVIDIA **Getting Started with AI on Jetson Nano**
-
+- 🎓 **Engineering Degree in Data Science & AI**, TEK-UP University *(2026 – present)*
+- 🎓 **Master's in Computer Science**, Faculty of Sciences of Bizerte *(2025 – present)*
+- 🎓 **Licence Computer Science - Software Engineering and Information Systems**, Faculty of Sciences of Bizerte *(2023 – 2025)*
+- 🎓 **Baccalaureate Mathematics**, Secondary High School of Kalaat Andalous *(Graduated:2022)*
 ---
 
 ## 📊 GitHub Stats
