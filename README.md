@@ -30,7 +30,7 @@ const abderazek = {
   location: "Ariana, Tunisia 🇹🇳",
   languages: ["Arabic (native)", "French (fluent)", "English (fluent)"],
   currentlyExploring: ["RAG", "LLM apps", "Computer Vision"],
-  lookingFor: "Internship / PFE",
+  lookingFor: "Remote Jobs / Internship / PFE",
 };
 ```
 
