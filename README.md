@@ -21,7 +21,7 @@ I'm an engineering student in **Data Science & Artificial Intelligence at TEK-UP
 - 🛒 Delivered a production **MERN e-commerce platform** for a client (Shopina), deployed with Docker and Nginx
 - 📱 Built a **Flutter mobile app** with a Node.js backend during my final-year internship at Prologic
 - 🤖 Integrating **LLMs (Groq, Ollama, LLaMA)** and **RAG pipelines** into practical applications
-- 🎯 Looking for internships and a PFE in **AI engineering** and **full stack development**
+- 🎯 Looking for remote jobs, internships and a PFE in **AI engineering** and **full stack development**
 
 ```js
 const abderazek = {
